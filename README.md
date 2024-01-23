@@ -32,7 +32,17 @@ THEN I am taken to the corresponding section of the README
 ```
 
 
+I Made my Document using javscript and nodejs
 
-I Made my Document using
+I used these websites to refrence codes and help me build my README Generator: https://www.npmjs.com/
 
-I used these websites to refrence codes and help me build my portfolio
+Here is my recorded video link:
+https://drive.google.com/file/d/18RebS9SjqbAgYyo4eKLA4TdTbpSeSSLR/view
+
+Here are my screenshots of my terminal in action and also the generated readme preview.
+![screenshot](image.png)
+![screenshot](image-1.png)
+
+Repository Link: https://github.com/Ereyna21/README-Generator
+
+Live Link: https://ereyna21.github.io/README-Generator/
